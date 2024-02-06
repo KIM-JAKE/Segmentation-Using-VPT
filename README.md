@@ -1,1 +1,1 @@
-## Segmentation Using VPT Project
+## Segmentation Using VPT
